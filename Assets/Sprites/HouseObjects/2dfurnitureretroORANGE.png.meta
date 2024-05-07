@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 60ffd7ce5f8ce2b4e858f66b578bdf17
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4140
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa3cbce82234a04c8f7c4adfee5a25b
+      internalID: -2100750332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 4140
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146614da20001e940b30b9963ead1ab3
+      internalID: -406173836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_2
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 4140
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6ef47470f4764f8c4c1fbd56c224a
+      internalID: 1164107239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_3
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 4140
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f912be6a3b3ffc40a9fa3f6cf6d0ee5
+      internalID: 1398406597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_4
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 4140
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a36342910d3ffa4ba5ed735b6270f6d
+      internalID: -2005065820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_5
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 4140
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e35342884e7994e94c0bd26ddd0d6c
+      internalID: 1586524171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_6
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 4140
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2874b315fcc13874c8d361630a4b113d
+      internalID: -2049324391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3450
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34a7c01fd241f5458ad9e21363c7c04
+      internalID: 926878022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3450
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555eb7ed402031f4ea018f6739cfbd50
+      internalID: 322629600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_9
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3450
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79e423315c6f514badd8003d7ff2369
+      internalID: -1113255014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_10
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3450
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01aa4a48f76eb644a1a25848f3ea00a
+      internalID: 737244701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_11
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3450
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce6e41d0635c2438afbee4e575f45d
+      internalID: 482383100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_12
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3450
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13a7c9cddf1194181348655bc8116b
+      internalID: -1983074152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_13
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 3450
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55986a52cc92f1f4e8b0d6a8b8f281ed
+      internalID: -366002944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366e0f14ff796ed4f9e87460ca123a56
+      internalID: -498408201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_15
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2760
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ca78f5e07019d4a806b971050432a6
+      internalID: -2001678189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2760
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f160d8a9bd71f4ebc0b91dea2af008
+      internalID: 2005263138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_17
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2760
+        width: 690
+        height: 681
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e0e946f15c18d458d58164d1e5f9f5
+      internalID: 1683773948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_18
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2760
+        width: 690
+        height: 689
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e872e54e6737718429106a35b4d84f83
+      internalID: -1512861983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_19
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2760
+        width: 690
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2182ec66810cad499f3d12818784dbb
+      internalID: 1050290414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_20
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2760
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b05ec279255e3640b454ec705436f7e
+      internalID: 1939105848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2070
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd5d026b5e38243ac0cc6c038bfb33
+      internalID: 789599914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_22
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2070
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516f0f415bbda44eb0597165719b331
+      internalID: 1851921317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2070
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0e7954086e7c6479acb6b4a980dec0
+      internalID: 88728368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_24
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2070
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad695387a5c01f4ca17445b6615192c
+      internalID: 212328753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_25
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2070
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc644674b94f28d4d84cd790ceb86b41
+      internalID: 156361463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_26
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2070
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af62027b73ca154da64de475b46e742
+      internalID: 239950150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_27
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2070
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecabd596110d02429b4771faaea93e3
+      internalID: 700192681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2bc1e03e6958c4fbd8572996577e8a
+      internalID: 318589389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1380
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4f8c668ca49884f81e296fbaaeec03
+      internalID: 213241068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_30
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1380
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8644f8bef48049046883287a9fd2841a
+      internalID: 602153664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_31
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1380
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474e83f4adeb458468c61ec0954590ff
+      internalID: 428218745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_32
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1380
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9608a44a21da7184db0a6d44c33d0b55
+      internalID: 1336014546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_33
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1380
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36305503f560dc4d903a43ea885be9d
+      internalID: 215707443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_34
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1380
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4002263f6345db742aa770602a11144b
+      internalID: 872511994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992198c13dc502047bdb82416ae553b6
+      internalID: -181936333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_36
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 690
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b4993cfc0f64f40968c162a7c6ae8f
+      internalID: -787460698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_37
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 690
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426e12c26b0145148a8dcc86a8637015
+      internalID: 914274720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_38
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 690
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbdfce60283b9f4f837fa1995e3b57b
+      internalID: 1943374569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_39
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 690
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6844d4a79610149948fd36e2e2fc2a
+      internalID: 265475888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_40
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 690
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13304fb8d4ad884291c85e844d74034
+      internalID: 1938174842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_41
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 690
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec6523787c7e794f85c8e8d0f70f8a4
+      internalID: -392853707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d609de523b6664abd6d2704d857c44
+      internalID: 1025998660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dfurnitureretroORANGE_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 690
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e8c34ab6fc27f49a2788668405a697
+      internalID: -1747309720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2dfurnitureretroORANGE_0: -2100750332
+      2dfurnitureretroORANGE_1: -406173836
+      2dfurnitureretroORANGE_10: 737244701
+      2dfurnitureretroORANGE_11: 482383100
+      2dfurnitureretroORANGE_12: -1983074152
+      2dfurnitureretroORANGE_13: -366002944
+      2dfurnitureretroORANGE_14: -498408201
+      2dfurnitureretroORANGE_15: -2001678189
+      2dfurnitureretroORANGE_16: 2005263138
+      2dfurnitureretroORANGE_17: 1683773948
+      2dfurnitureretroORANGE_18: -1512861983
+      2dfurnitureretroORANGE_19: 1050290414
+      2dfurnitureretroORANGE_2: 1164107239
+      2dfurnitureretroORANGE_20: 1939105848
+      2dfurnitureretroORANGE_21: 789599914
+      2dfurnitureretroORANGE_22: 1851921317
+      2dfurnitureretroORANGE_23: 88728368
+      2dfurnitureretroORANGE_24: 212328753
+      2dfurnitureretroORANGE_25: 156361463
+      2dfurnitureretroORANGE_26: 239950150
+      2dfurnitureretroORANGE_27: 700192681
+      2dfurnitureretroORANGE_28: 318589389
+      2dfurnitureretroORANGE_29: 213241068
+      2dfurnitureretroORANGE_3: 1398406597
+      2dfurnitureretroORANGE_30: 602153664
+      2dfurnitureretroORANGE_31: 428218745
+      2dfurnitureretroORANGE_32: 1336014546
+      2dfurnitureretroORANGE_33: 215707443
+      2dfurnitureretroORANGE_34: 872511994
+      2dfurnitureretroORANGE_35: -181936333
+      2dfurnitureretroORANGE_36: -787460698
+      2dfurnitureretroORANGE_37: 914274720
+      2dfurnitureretroORANGE_38: 1943374569
+      2dfurnitureretroORANGE_39: 265475888
+      2dfurnitureretroORANGE_4: -2005065820
+      2dfurnitureretroORANGE_40: 1938174842
+      2dfurnitureretroORANGE_41: -392853707
+      2dfurnitureretroORANGE_42: 1025998660
+      2dfurnitureretroORANGE_43: -1747309720
+      2dfurnitureretroORANGE_5: 1586524171
+      2dfurnitureretroORANGE_6: -2049324391
+      2dfurnitureretroORANGE_7: 926878022
+      2dfurnitureretroORANGE_8: 322629600
+      2dfurnitureretroORANGE_9: -1113255014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
